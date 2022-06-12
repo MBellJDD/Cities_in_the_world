@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "BootStrap5",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "..\\Bootstrap\\Public\\img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BootStrap5"
+	}
+}
