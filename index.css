@@ -20,8 +20,8 @@ body {
 
 body {
   background: #504642;
-  background: -webkit-linear-gradient(to right, #e8cbc0, #636fa4);
-  background: linear-gradient(to right, #e8cbc0, #4f65ca);
+  background: -webkit-linear-gradient(to right, #ca633d, #636fa4);
+  background: linear-gradient(to right, #e8cbc0, #855a2a);
   min-height: 100vh;
 }
 
