@@ -3,7 +3,7 @@ body {
 }
 
 .list-group-item.active {
-  margin-top: 40px;
+  margin-top: 50px;
   z-index: 2;
   color: #fff;
   background-color: #d1866f;
