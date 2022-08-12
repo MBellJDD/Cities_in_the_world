@@ -1,5 +1,9 @@
 body {
   margin: 90px;
+  background: #504642;
+  background: -webkit-linear-gradient(to right, #ca633d, #636fa4);
+  background: linear-gradient(to right, #e8cbc0, #855a2a);
+  min-height: 100vh;
 }
 
 .list-group-item.active {
@@ -18,12 +22,7 @@ body {
   display: flex;
 }
 
-body {
-  background: #504642;
-  background: -webkit-linear-gradient(to right, #ca633d, #636fa4);
-  background: linear-gradient(to right, #e8cbc0, #855a2a);
-  min-height: 100vh;
-}
+
 
 .social-link {
   width: 30px;
